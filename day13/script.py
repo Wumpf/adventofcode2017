@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-from namedlist import namedlist
 
 # test input
 data = '''0: 3
